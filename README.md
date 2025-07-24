@@ -7,3 +7,6 @@ You have to have DQClass.py and RandomizerRedacted.py for the other scripts to w
 To get everything running, just download all the files and click play on either the Euler_Class_Pose_Finder script or the Quaternion_Class_Pose_Finder script. This gives something not statistically significantly different from the raw data seen in my poster. 
 
 The algorithms live in the ..._Pose_Finder scripts. These are just check lists I used to count the number of operations. I learned after printing the poster that they still have room for optimization. Please feel free to pick apart the algorithms and find any mistakes or improvements and send them to me at cchmd2@umsystem.edu (that is, if I haven't already left the university and my email address got deleted.)
+
+-24 July 2025
+The Test_Data script holds one of the trials I ran (the other was the same to 2 significant digits). Some data sets from modified methods are commented out because there was little or no change from the unmodified methods. 
